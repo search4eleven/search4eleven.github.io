@@ -1,0 +1,5 @@
+title: Search4Eleven Blog
+description: Documenting my projects daily
+theme: minima  # A simple default theme
+plugins:
+  - jekyll-feed
